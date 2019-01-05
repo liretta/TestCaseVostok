@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\c++\test_vostoc\words_v2\source.cpp(19): warning C4129: '/': unrecognized character escape sequence
+d:\c++\test_vostoc\words_v2\source.cpp(75): warning C4101: 'pBuffForTocken': unreferenced local variable
+  Words_v2.vcxproj -> D:\C++\Test_vostoc\Words_v2\Debug\Words_v2.exe
